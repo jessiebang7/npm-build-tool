@@ -1,6 +1,6 @@
 {
   "name": "stupidlittlewebsite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small demo site for our npm scripting adventures",
   "main": "index.js",
   "scripts": {
@@ -57,9 +57,9 @@
     "watch": "^1.0.2",
     "watchify": "^3.11.0"
   },
-  "repository":{
+  "repository": {
     "type": "git",
-    "url":"."
+    "url": "."
   },
   "dependencies": {
     "koa": "^2.6.2",
